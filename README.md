@@ -1,2 +1,2 @@
-Nombre del alumno: Eguaras Zoe
-Número de alumno: 24000/1
+- Eguaras Zoe
+- 24000/1
